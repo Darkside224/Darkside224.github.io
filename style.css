@@ -50,6 +50,8 @@ th{
     font-weight: 400;
 }
 
+
+
 .shadow{
     width: 75%;
     justify-content: center;
@@ -63,4 +65,13 @@ th{
     font-size: 1.1rem;
     line-height: 1.3rem;
     font-weight: 400;
+}
+
+.footer-words{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 0.9rem;
+    line-height: 1.1rem;
+    font-weight: 500;
+
 }
