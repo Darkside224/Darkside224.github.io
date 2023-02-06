@@ -6,6 +6,22 @@
     line-height: 1.5rem;
 }
 
+header {
+    background-color: rgb(235, 239, 235);
+    padding: 15px;
+    justify-content: center;
+  }
+  
+th{
+    padding-left: 30px; 
+    padding-right: 30px;
+}
+
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .text-xl{
     font-size: 2rem;
     line-height: 2.5rem;
@@ -24,4 +40,27 @@
 .text-s{
     font-size: 0.75rem;
     line-height: 1rem;
+}
+
+.header-link{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 1.1rem;
+    line-height: 1.3rem;
+    font-weight: 400;
+}
+
+.shadow{
+    width: 75%;
+    justify-content: center;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.05);
+    text-align: center;
+}
+
+.header-current{
+    color: rgb(17, 0, 255);
+    text-decoration: none;
+    font-size: 1.1rem;
+    line-height: 1.3rem;
+    font-weight: 400;
 }
