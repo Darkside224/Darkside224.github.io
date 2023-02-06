@@ -5,3 +5,23 @@
     font-size: 1rem;
     line-height: 1.5rem;
 }
+
+.text-xl{
+    font-size: 2rem;
+    line-height: 2.5rem;
+}
+
+.text-l{
+    font-size: 1.5rem;
+    line-height: 2rem;
+}
+
+.text-xxl{
+    font-size: 3rem;
+    line-height: 3.5rem;
+}
+
+.text-s{
+    font-size: 0.75rem;
+    line-height: 1rem;
+}
