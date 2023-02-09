@@ -219,3 +219,12 @@ img {
 .padding-top{
     padding-top: 30px;
 }
+
+.bar {
+    width: 100%;
+    height: 1.5rem;
+    text-align: left;
+    color: white;
+    position: relative;
+    padding-top: 3px;
+}
