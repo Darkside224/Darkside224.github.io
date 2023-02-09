@@ -7,7 +7,7 @@
     font-family: "Arial", sans-serif;
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 900px) {
     .middle-border{
         border-bottom: 1px solid rgb(200, 200, 200);
     }
@@ -34,7 +34,7 @@
     }
 }
 
-@media only screen and (min-width: 801px) {
+@media only screen and (min-width: 901px) {
     .middle-border{
         border-right: 1px solid rgb(200, 200, 200);
     }
@@ -194,6 +194,10 @@ img {
 
 .padding-bottom{
     padding-bottom: 20px;
+}
+
+.padding-bottom-small{
+    padding-bottom: 10px;
 }
 
 .text-left{
